@@ -1,6 +1,6 @@
 # VHDL Code Portfolio - Etienne Bertin
 
-Welcome to my VHDL portfolio. This repository contains a selection of synthesizable VHDL modules from my academic projects at IMT Atlantique, submitted as part of my internship application to Veoware.
+Welcome to my VHDL portfolio. This repository contains a selection of synthesizable VHDL modules from my academic projects at IMT Atlantique, submitted as part of my internship application.
 
 These three modules demonstrate my hands-on experience in RTL design, covering the fundamental pillars of FPGA development:
 1.  **Architectural Control** (`Ctrl_unit.vhd`)
